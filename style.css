@@ -86,7 +86,6 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .top-video-style {
@@ -98,7 +97,7 @@
 
 .mid-part {
     background-color: #F4EDE4;
-    height: 1500px;
+    padding-bottom: 40px;
 }
 
 .mid-part-article-highest {
@@ -151,3 +150,31 @@
     padding-left: 20px;
     padding-right: 20px;
 }
+
+
+/* third part */
+
+.third-part {
+    background-color: white;   
+}
+
+.top-text-style-black {
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.text-below-top-black {
+    text-align: center;
+    font-size: 16px;
+}
+
+.margin-top-neg {
+    margin-top: -24px;
+}
+
+.padding-mid {
+    padding-top: 60px;
+}
+
