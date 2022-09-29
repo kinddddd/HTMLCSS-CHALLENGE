@@ -1,5 +1,6 @@
 * {
     font-family: sans-serif;
+    color: black;
 }
 
 .row {
@@ -9,12 +10,20 @@
     align-items: center;
 }
 
+.align-center {
+    text-align:center;
+}
+
 .padding {
     padding: 10px;
 }
 
 .margin {
     margin: 10px;
+}
+
+.bold {
+    font-weight: bold;
 }
 
 .navbar {
@@ -38,8 +47,7 @@
     padding: 14px 16px;
 
 }
-.main {
-     height: 1500px;
+.top-part {
      background-color: #541554;
      margin-top: 70px;
 }
@@ -84,4 +92,21 @@
 .top-video-style {
     max-height: 100%;
     max-width: 100%;
+}
+
+/* White part */
+
+.mid-part {
+    background-color: #F4EDE4;
+    height: 1500px;
+}
+
+.mid-part-article-highest {
+    padding-top: 20px;
+}
+
+.sponsors {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
 }
