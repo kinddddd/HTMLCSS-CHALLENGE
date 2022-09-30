@@ -214,3 +214,21 @@
 .video-background {
     background-color: white;
 }
+
+.quote-title {
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.quote-description {
+    margin-top: 0px;
+}
+
+.quote-text {
+    line-height: 30px;
+    font-style: italic;
+}
+
+.quote-link {
+    text-decoration: none;
+}
