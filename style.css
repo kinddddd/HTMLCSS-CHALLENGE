@@ -297,3 +297,51 @@
     border-bottom-left-radius: 30%;
     border-bottom-right-radius: 30%;
 }
+
+.qa-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid grey;
+    padding-bottom: 20px;
+}
+
+.qa-box-list-left {
+    text-align: left;
+}
+
+.qa-box-list-right {
+    text-align: right;
+}
+
+.qa-list-style {
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 0;
+}
+
+.qa-list-items {
+    padding-top: 15px;
+}
+
+.info-list-box {
+    padding: 0;
+    list-style-type: none;
+}
+
+.info-list-items {
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.info-list-link {
+    color:#1a75ff;
+}
+
+.no-line {
+    text-decoration: none;
+    text-align: center;
+}
