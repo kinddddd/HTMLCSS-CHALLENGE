@@ -159,6 +159,11 @@
     padding-right: 20px;
 }
 
+.margin-articles {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 
 /* third part */
 
@@ -254,4 +259,41 @@
 .lateral-title {
     font-size: 22px;
     font-weight: bold;
+}
+
+.bottom-big-txt {
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.bottom-img-white {
+    width: 350px;
+    border-radius: 5px;
+}
+
+.bottom-img-purple {
+    margin-top: 20px;
+    width: 350px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.bottom-img {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.top-article {
+    background-color: white;
+}
+
+.bottom-article {
+    background-color: #541554;
+    height: 300px;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
 }
