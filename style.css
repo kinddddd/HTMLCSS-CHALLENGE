@@ -345,3 +345,20 @@
     text-decoration: none;
     text-align: center;
 }
+
+.icon-footer {
+    width: 25%;
+}
+
+.icons-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.icons-box-item {
+    display: flex;
+    justify-content: center;
+}
