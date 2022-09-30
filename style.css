@@ -229,6 +229,8 @@
     font-style: italic;
 }
 
-.quote-link {
-    text-decoration: none;
+.quote-bottom {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 12px;
 }
