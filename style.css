@@ -362,3 +362,12 @@
     display: flex;
     justify-content: center;
 }
+
+/* FOOTER */
+
+footer {
+    color:grey;
+    font-size: 12px;
+    margin-top: 20px;
+
+}
