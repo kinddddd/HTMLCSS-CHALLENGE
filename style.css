@@ -178,3 +178,29 @@
     padding-top: 60px;
 }
 
+.vertical-boxes {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.vertical-boxes-inside {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+}
+
+.percentage {
+    font-size: 60px;
+    font-weight: bold;
+    color: #611F69;
+    margin: 0;
+}
+
+.percentage-text {
+    font-size: 14px;
+    padding-top: -50px;
+}
