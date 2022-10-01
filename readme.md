@@ -1,4 +1,4 @@
-# Open with Firefox and iPhone 12/13 Pro Max iOS 14.6 for proper view.
+# Inspect with Firefox and iPhone 12/13 Pro Max iOS 14.6 for a proper view.
 
 ## HTMLCSS Final Challenge
 
