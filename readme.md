@@ -1,8 +1,8 @@
 # HTML CSS Final Challenge
 
-## Inspect with Firefox and iPhone 12/13 Pro Max iOS 14.6 for a proper view.
+## Made by Álvaro Moreno Rodríguez.
 
-### Made by Álvaro Moreno Rodríguez
+### Inspect with Firefox and iPhone 12/13 Pro Max iOS 14.6 for a proper view.
 
 #### Used HTML and CSS.
 
